@@ -1,7 +1,6 @@
 .git
 .settings
 /bin
-/src
 .classpath
 .project
 .class
