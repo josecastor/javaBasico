@@ -1,2 +1,2 @@
 # javaBasico
-RepositÃ³rio com propÃ³sito de armazenar os fontes dos primeiros passo em java.
+Repositório com propósito de armazenar os fontes dos primeiros passo em java.
