@@ -22,12 +22,6 @@ public class SwitchCase {
 		default: System.out.println("Não é um dia da semana válido"); break;
 		}
 		
-		
-
-		
-
-		
-
 	}
 
 }
